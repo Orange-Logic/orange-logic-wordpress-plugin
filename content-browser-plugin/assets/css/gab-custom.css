@@ -1,0 +1,16 @@
+.media-modal-backdrop {
+    z-index: 0;
+    position: relative;
+}
+.media-modal.wp-core-ui {
+    z-index: 9999;
+}
+.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-sizeSmall.MuiInputBase-adornedStart.MuiInputBase-adornedEnd.css-18ekh72 input {
+    border: none;
+}
+.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-sizeSmall.MuiInputBase-adornedStart.MuiInputBase-adornedEnd.css-18ekh72 input:focus {
+    outline: none;
+    box-shadow: none;
+}
+.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-fvbw04 input {    border: none;!i;!;
+}
